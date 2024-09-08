@@ -1,0 +1,10 @@
+##Solutions to checkpoint on MongoDB##
+![Solution 1](./mongopic/img1.png)
+![Solution 2](./mongopic/img2.png)
+![Solution 3](./mongopic/img3.png)
+![Solution 4](./mongopic/img%204.png)
+![Solution 5](./mongopic/img%205.png)
+![Solution 6](./mongopic/img%206.png)
+![Solution 7](./mongopic/img%207.png)
+![Solution 8](./mongopic/img8.png)
+![Solution 9](./mongopic/img9.png)
